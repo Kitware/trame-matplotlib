@@ -1,0 +1,2 @@
+recursive-include trame_matplotlib/module/serve/ *.umd.min.js
+include trame_matplotlib/LICENSE
