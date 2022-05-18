@@ -72,3 +72,8 @@ class Figure(AbstractElement):
         Serialize matplotlib figure
         """
         return ENCODER(mpld3.fig_to_dict(chart))
+
+
+__all__ = [
+    "Figure",
+]
