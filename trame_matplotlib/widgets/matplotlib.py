@@ -4,7 +4,7 @@ from trame_matplotlib import module
 
 try:
     import mpld3
-except:
+except ImportError:
     print(
         "\nmpld3 is missing, if you want your matplotlib figure to work install it\n   $ pip install mpld3\n"
     )
@@ -34,6 +34,7 @@ class Figure(AbstractElement):
     >>> component2 = Figure()
     >>> component2.update(fig1)
     """
+
     _next_id = 0
 
     def __init__(self, figure=None, **kwargs):

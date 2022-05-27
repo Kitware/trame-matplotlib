@@ -57,5 +57,5 @@ Using the component method
 
     fig, ax = plt.subplots(**figure_size)
 
-    widget = matplotlib.Figure(figure=None) # could pass fig at constrution
+    widget = matplotlib.Figure(figure=None) # could pass fig at construction
     widget.update(fig)
