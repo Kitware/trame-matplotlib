@@ -1,6 +1,10 @@
 Matplotlib widget for trame
 ===========================================================================
 
+.. image:: https://github.com/Kitware/trame-matplotlib/actions/workflows/test_and_release.yml/badge.svg
+    :target: https://github.com/Kitware/trame-matplotlib/actions/workflows/test_and_release.yml
+    :alt: Test and Release
+
 trame-matplotlib extend trame **widgets** with a component that is capable of rendering Matplotlib plots.
 This library allow you to create rich visualization by leveraging `Matplotlib <https://matplotlib.org/>`__ within trame.
 
