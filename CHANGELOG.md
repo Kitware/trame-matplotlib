@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v2.0.3 (2024-03-19)
+
+### Fix
+
+* **vue3:** Add support for vue3 ([`3c85920`](https://github.com/Kitware/trame-matplotlib/commit/3c859202e54bd14c296006c79bf4d975ad1add5b))
+
 ## v2.0.2 (2023-02-23)
 ### Fix
 * **version:** Add __version__ ([`c446684`](https://github.com/Kitware/trame-matplotlib/commit/c44668495e1229903d6cf6d22fe41081ded130d0))
