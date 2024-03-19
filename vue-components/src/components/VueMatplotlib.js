@@ -33,4 +33,5 @@ export default {
   beforeDestroy() {
     mpld3.remove_figure(this.name);
   },
+  template: `<div :id="name"></div>`,
 };
