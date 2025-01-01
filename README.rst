@@ -1,4 +1,6 @@
-Matplotlib widget for trame
+.. |pypi_download| image:: https://img.shields.io/pypi/dm/trame-matplotlib
+
+Matplotlib widget for trame |pypi_download|
 ===========================================================================
 
 .. image:: https://github.com/Kitware/trame-matplotlib/actions/workflows/test_and_release.yml/badge.svg
