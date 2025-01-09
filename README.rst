@@ -65,3 +65,9 @@ Using the component method
 
     widget = matplotlib.Figure(figure=None) # could pass fig at construction
     widget.update(fig)
+
+
+JavaScript dependency
+-----------------------------------------------------------
+
+This Python package bundle the ``mpld3@0.5.7`` JavaScript library. If you would like us to upgrade it, `please reach out <https://www.kitware.com/trame/>`_.
