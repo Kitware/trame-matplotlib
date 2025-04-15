@@ -24,7 +24,7 @@ trame-matplotlib can be installed with `pip <https://pypi.org/project/trame-matp
 Usage
 -----------------------------------------------------------
 
-The `Trame Tutorial <https://kitware.github.io/trame/docs/tutorial.html>`__ is the place to go to learn how to use the library and start building your own application.
+The `Trame Tutorial <https://kitware.github.io/trame/guide/tutorial>`__ is the place to go to learn how to use the library and start building your own application.
 
 The `API Reference <https://trame.readthedocs.io/en/latest/index.html>`__ documentation provides API-level documentation.
 
@@ -39,7 +39,7 @@ This package is under the BSD-3 License as it is compatible with `matplotlib <ht
 Community
 -----------------------------------------------------------
 
-`Trame <https://kitware.github.io/trame/>`__ | `Discussions <https://github.com/Kitware/trame/discussions>`__ | `Issues <https://github.com/Kitware/trame/issues>`__ | `RoadMap <https://github.com/Kitware/trame/projects/1>`__ | `Contact Us <https://www.kitware.com/contact-us/>`__
+`Trame <https://kitware.github.io/trame/>`__ | `Discussions <https://github.com/Kitware/trame/discussions>`__ | `Issues <https://github.com/Kitware/trame/issues>`__ | `Contact Us <https://www.kitware.com/contact-us/>`__
 
 .. image:: https://zenodo.org/badge/410108340.svg
     :target: https://zenodo.org/badge/latestdoi/410108340
